@@ -1,5 +1,3 @@
 # Random Musings
 
-## Some links for data compression articles
-
-2024-6-4 [1BRC in python](https://github.com/pappuks/1brc/blob/main/README.md)
+2024-6-4 [1BRC in python](./blog/2024/1brc.md)
