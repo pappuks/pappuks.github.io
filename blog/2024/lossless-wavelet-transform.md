@@ -68,7 +68,7 @@ The inverse in JPEG 2000 is computed as:
 
 ![alt text](image-23.png)
 
-#Example:
+# Example:
 
 We will process the below matrix using the JPEG 2000 equations:
 
